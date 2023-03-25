@@ -1,0 +1,9 @@
+C:\Users\mahmo\source\repos\os\os\bin\Debug\taskoo.exe
+C:\Users\mahmo\source\repos\os\os\bin\Debug\taskoo.pdb
+C:\Users\mahmo\source\repos\os\os\obj\x86\Debug\taskoo.csproj.AssemblyReference.cache
+C:\Users\mahmo\source\repos\os\os\obj\x86\Debug\taskoo.Form1.resources
+C:\Users\mahmo\source\repos\os\os\obj\x86\Debug\taskoo.Properties.Resources.resources
+C:\Users\mahmo\source\repos\os\os\obj\x86\Debug\taskoo.csproj.GenerateResource.cache
+C:\Users\mahmo\source\repos\os\os\obj\x86\Debug\taskoo.csproj.CoreCompileInputs.cache
+C:\Users\mahmo\source\repos\os\os\obj\x86\Debug\taskoo.exe
+C:\Users\mahmo\source\repos\os\os\obj\x86\Debug\taskoo.pdb
